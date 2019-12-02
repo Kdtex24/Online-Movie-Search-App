@@ -21,7 +21,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/samie820/hooks-movie-app.git
+git clone https://github.com/Kdtex24/Online-Movie-Search-App.git
 ```
 
 - Install all the project's dependencies:
@@ -44,4 +44,4 @@ The app can be deployed using either heroku or Netlify
 Please read the [CONTRIBUTING.md](#) file (Soon to be added) to see how you can contribute and add more features to the project.
 
 # Authors
-TODO: Add the Authors
+Kedeayei Okoi
